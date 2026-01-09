@@ -17,3 +17,4 @@ export async function GET(request: NextRequest, { params }: Props) {
         { id: 1, name: "Tol" }
     )
 }
+
