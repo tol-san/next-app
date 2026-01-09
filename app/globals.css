@@ -1,7 +1,5 @@
 @import "tailwindcss";
-@plugin "daisyui"  {
-  themes: winter;
-}
+@import "daisyui";
 
 :root {
   --foreground-rgb: 0, 0, 0;
